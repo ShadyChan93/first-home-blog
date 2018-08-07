@@ -3,14 +3,14 @@ module.exports = {
 
   siteTitle: 'Personal Blog', // Navigation and Site Title
   siteTitleAlt: 'Personal Blog - First Home', // Alternative Site title for SEO
-  siteUrl: 'https://minimal-blog.netlify.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://dreamy-northcutt-5dd5c1.netlify.com/', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteBanner: '/social/banner.jpg',
   siteDescription: 'Personal blog about my first home',
 
-  siteFBAppID: '123456789', // Facebook App ID
-  userTwitter: '@minimal', // Twitter Username
-  ogSiteName: 'minimal', // Facebook Site Name
+  siteFBAppID: '1628104593985576', // Facebook App ID
+  userTwitter: '@ShadyChan93', // Twitter Username
+  ogSiteName: 'First Home Blog', // Facebook Site Name
 
   // Manifest and Progress color
   themeColor: '#3498DB',
@@ -19,5 +19,5 @@ module.exports = {
   // Settings for typography.js
   headerFontFamily: 'Bitter',
   bodyFontFamily: 'Open Sans',
-  baseFontSize: '18px',
+  baseFontSize: '20px',
 };

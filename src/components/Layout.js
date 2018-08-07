@@ -83,10 +83,9 @@ const Layout = props => {
             <SEO />
             {children}
             <Footer>
-              &copy; 2018 by John Doe. All rights reserved. <br />
-              <a href="https://github.com/LeKoArts/gatsby-starter-minimal-blog">GitHub Repository</a> <br />
+              &copy; 2018 by MK Chan. All rights reserved. <br />
               <span>Last build: {data.site.buildTime}</span>
-            </Footer>;
+            </Footer>
           </React.Fragment>
         </ThemeProvider>
       )}
