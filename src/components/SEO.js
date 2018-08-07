@@ -67,10 +67,10 @@ const SEO = props => {
     <Helmet>
       <title>{config.siteTitle}</title>
       <meta name="description" content={description} />
-      <meta name="keywords" content="minimal, blog, layout" />
+      <meta name="keywords" content="personal, first home, blog, malaysia" />
       <meta name="image" content={image} />
       <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
-      <meta property="og:locale" content="de_DE" />
+      <meta property="og:locale" content="en_EN" />
       <meta property="og:site_name" content={config.ogSiteName} />
       <meta property="og:url" content={postSEO ? postURL : blogURL} />
       {postSEO ? <meta property="og:type" content="article" /> : null}

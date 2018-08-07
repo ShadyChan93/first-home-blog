@@ -3,7 +3,7 @@ module.exports = {
 
   siteTitle: 'Personal Blog', // Navigation and Site Title
   siteTitleAlt: 'Personal Blog - First Home', // Alternative Site title for SEO
-  siteUrl: 'https://dreamy-northcutt-5dd5c1.netlify.com/', // Domain of your site. No trailing slash!
+  siteUrl: 'https://dreamy-northcutt-5dd5c1.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteBanner: '/social/banner.jpg',
   siteDescription: 'Personal blog about my first home',
