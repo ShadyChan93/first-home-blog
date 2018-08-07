@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: https://minimal-blog.netlify.com/sitemap.xml
+sitemap: https://dreamy-northcutt-5dd5c1.netlify.com/sitemap.xml
