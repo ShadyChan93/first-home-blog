@@ -48,7 +48,6 @@ const Category = props => {
           {group.map(category => (
             <Title key={category.fieldValue}>
               <Link to={`/categories/${kebabCase(category.fieldValue)}`}>{category.fieldValue}</Link>
-              {category.totalCount})
             </Title>
           ))}
         </Content>
